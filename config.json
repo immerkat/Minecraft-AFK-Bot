@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "BatataSMP-FfDN.aternos.me:43555",
+  "serverPort": 43555,
+  "botUsername": "MerkatBOT",
   "botChunk": 1
 }
